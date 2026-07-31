@@ -1,0 +1,13 @@
+*.nrrd
+data/
+Depth-Anything-V2/checkpoints/
+output/SOFA/liver_circle/
+output/SOFA/liver_down/
+output/SOFA/liver_up/
+output/SOFA/liver_left/
+output/SOFA/liver_in/
+output/SOFA/liver_original_force/
+output/ATLAS/stomach/dataset1/
+output/ATLAS/breathing/dynamic_breathing/
+.DS_Store
+Thumbs.db
